@@ -1,0 +1,20 @@
+D:\Projetos\ellevo\contatos-back\Api contatos ASP\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Projetos\ellevo\contatos-back\Api contatos ASP\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Projetos\ellevo\contatos-back\Api contatos ASP\bin\Debug\netcoreapp3.0\Webapi.exe
+D:\Projetos\ellevo\contatos-back\Api contatos ASP\bin\Debug\netcoreapp3.0\Webapi.deps.json
+D:\Projetos\ellevo\contatos-back\Api contatos ASP\bin\Debug\netcoreapp3.0\Webapi.runtimeconfig.json
+D:\Projetos\ellevo\contatos-back\Api contatos ASP\bin\Debug\netcoreapp3.0\Webapi.runtimeconfig.dev.json
+D:\Projetos\ellevo\contatos-back\Api contatos ASP\bin\Debug\netcoreapp3.0\Webapi.dll
+D:\Projetos\ellevo\contatos-back\Api contatos ASP\bin\Debug\netcoreapp3.0\Webapi.pdb
+D:\Projetos\ellevo\contatos-back\Api contatos ASP\obj\Debug\netcoreapp3.0\Api contatos ASP.csprojAssemblyReference.cache
+D:\Projetos\ellevo\contatos-back\Api contatos ASP\obj\Debug\netcoreapp3.0\Api contatos ASP.AssemblyInfoInputs.cache
+D:\Projetos\ellevo\contatos-back\Api contatos ASP\obj\Debug\netcoreapp3.0\Api contatos ASP.AssemblyInfo.cs
+D:\Projetos\ellevo\contatos-back\Api contatos ASP\obj\Debug\netcoreapp3.0\Api contatos ASP.csproj.CoreCompileInputs.cache
+D:\Projetos\ellevo\contatos-back\Api contatos ASP\obj\Debug\netcoreapp3.0\Webapi.MvcApplicationPartsAssemblyInfo.cache
+D:\Projetos\ellevo\contatos-back\Api contatos ASP\obj\Debug\netcoreapp3.0\staticwebassets\Webapi.StaticWebAssets.Manifest.cache
+D:\Projetos\ellevo\contatos-back\Api contatos ASP\obj\Debug\netcoreapp3.0\staticwebassets\Webapi.StaticWebAssets.xml
+D:\Projetos\ellevo\contatos-back\Api contatos ASP\obj\Debug\netcoreapp3.0\scopedcss\bundle\Webapi.styles.css
+D:\Projetos\ellevo\contatos-back\Api contatos ASP\obj\Debug\netcoreapp3.0\Api contatos ASP.RazorTargetAssemblyInfo.cache
+D:\Projetos\ellevo\contatos-back\Api contatos ASP\obj\Debug\netcoreapp3.0\Webapi.dll
+D:\Projetos\ellevo\contatos-back\Api contatos ASP\obj\Debug\netcoreapp3.0\Webapi.pdb
+D:\Projetos\ellevo\contatos-back\Api contatos ASP\obj\Debug\netcoreapp3.0\Api contatos ASP.genruntimeconfig.cache
